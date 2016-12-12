@@ -1,8 +1,6 @@
 package main
 
 import (
-	//"image/color"
-
 	"fmt"
 	"image/png"
 	"log"
